@@ -1,0 +1,1 @@
+$(function(){$.scrollUp({scrollName:"scrollUp",scrollDistance:200,scrollFrom:"top",scrollSpeed:300,easingType:"linear",animation:"fade",animationInSpeed:200,animationOutSpeed:200,scrollText:"Scroll to top",scrollTitle:false,scrollImg:true,activeOverlay:false,zIndex:2147483647})})
